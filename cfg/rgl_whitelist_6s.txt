@@ -1,5 +1,5 @@
-// Whitelist generated at Fri, 02 Dec 2022 22:22:08 +0100
-// Whitelist: RGL.gg 6v6 (Season 7) (ID: 13395)
+// Whitelist generated at Thu, 25 Apr 2024 18:05:31 +0200
+// Whitelist: RGL.gg 6v6 (Season 11) (ID: 13531)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/rgl_6v6
@@ -40,8 +40,6 @@
 // Blocked weapons for Heavy
 // - Primary
 //  * Natascha
-// - Secondary
-//  * Buffalo Steak Sandvich
 // - Melee
 //  * Fists of Steel
 
@@ -72,7 +70,7 @@
 {
 	"unlisted_items_default_to"		"1"
 
-	//------------- Blocked weapons/reskins (Total: 31) -------------\\
+	//------------- Blocked weapons/reskins (Total: 30) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -93,7 +91,6 @@
 	"Deflector"							"0"
 	"Fists of Steel"						"0"
 	"Natascha"							"0"
-	"The Buffalo Steak Sandvich"					"0"
 	//__________________________ Engineer ___________________________\\
 	"Festive Wrangler"						"0"
 	"The Giger Counter"						"0"
@@ -117,7 +114,9 @@
 	//_________________________ All classes _________________________\\
 	"Activated Campaign 3 Pass"					"0"
 
-	//----- Globally Competitive League banned items (Total: 2) -----\\
+	//----- Globally Competitive League banned items (Total: 3) -----\\
+	//_________________________ All classes _________________________\\
+	"Yeti Park Cap"							"0"
 	//____________________________ Scout ____________________________\\
 	"The Corpse Carrier"						"0"
 	"The Sprinting Cephalopod"					"0"
@@ -161,7 +160,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 49) ----------------------\\
+	//--------------------- Taunts (Total: 65) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -169,38 +168,49 @@
 	"RPS Taunt"							"0"
 	"Skullcracker Taunt"						"0"
 	"Square Dance Taunt"						"0"
+	"Taunt: Cheers!"						"0"
 	"Taunt: Kazotsky Kick"						"0"
+	"Taunt: Killer Joke"						"0"
 	"Taunt: Mannrobics"						"0"
+	"Taunt: Mourning Mercs"						"0"
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
+	"Taunt: Foul Play"						"0"
 	"Taunt: Runner's Rhythm"					"0"
 	"Taunt: Spin-to-Win"						"0"
 	"Taunt: The Boston Boarder"					"0"
 	"Taunt: The Bunnyhopper"					"0"
 	"Taunt: The Carlton"						"0"
 	"Taunt: The Homerunner's Hobby"					"0"
+	"Taunt: The Killer Signature"					"0"
 	"Taunt: The Scooty Scoot"					"0"
 	//___________________________ Soldier ___________________________\\
+	"Taunt: Neck Snap"						"0"
 	"Taunt: Panzer Pants"						"0"
 	"Taunt: Rocket Jockey"						"0"
+	"Taunt: Star-Spangled Strategy"					"0"
 	//____________________________ Pyro _____________________________\\
 	"Pool Party Taunt"						"0"
+	"Taunt: Roasty Toasty"						"0"
 	"Taunt: Scorcher's Solo"					"0"
 	"Taunt: The Balloonibouncer"					"0"
 	"Taunt: The Hot Wheeler"					"0"
 	"Taunt: The Skating Scorcher"					"0"
 	//___________________________ Demoman ___________________________\\
 	"Taunt: Drunk Mann's Cannon"					"0"
+	"Taunt: Roar O'War"						"0"
 	"Taunt: Scotsmann's Stagger"					"0"
 	"Taunt: Shanty Shipmate"					"0"
 	"Taunt: The Drunken Sailor"					"0"
 	"Taunt: The Pooped Deck"					"0"
 	//____________________________ Heavy ____________________________\\
 	"Taunt: Bare Knuckle Beatdown"					"0"
+	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
+	"Taunt: The Road Rager"						"0"
 	"Taunt: The Russian Arms Race"					"0"
 	"Taunt: The Soviet Strongarm"					"0"
 	"Taunt: The Table Tantrum"					"0"
@@ -211,7 +221,9 @@
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
+	"Taunt: Borrowed Bones"						"0"
 	"Taunt: Surgeon's Squeezebox"					"0"
+	"Taunt: The Head Doctor"					"0"
 	"Taunt: The Mannbulance!"					"0"
 	"Taunt: Time Out Therapy"					"0"
 	//___________________________ Sniper ____________________________\\
@@ -219,6 +231,9 @@
 	"Taunt: Shooter's Stakeout"					"0"
 	//_____________________________ Spy _____________________________\\
 	"Taunt: Luxury Lounge"						"0"
+	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"
+	"Taunt: The Crypt Creeper"					"0"
 	"Taunt: The Travel Agent"					"0"
+	"Taunt: Tuefort Tango"						"0"
 }
