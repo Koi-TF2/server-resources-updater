@@ -1,5 +1,5 @@
-// Whitelist generated at Thu, 25 Apr 2024 18:05:37 +0200
-// Whitelist: RGL.gg Ultiduo (ID: 14177)
+// Whitelist generated at Sat, 21 Jun 2025 17:53:27 +0200
+// Whitelist: RGL.gg Ultiduo (ID: 18034)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/rgl_ultiduo
@@ -89,8 +89,8 @@
 	"Promo Neon Annihilator"					"0"
 	"Sharpened Volcano Fragment"					"0"
 	"The Axtinguisher"						"0"
-	"The Back Scratcher"						"0"
 	"The Backburner"						"0"
+	"The Back Scratcher"						"0"
 	"The Degreaser"							"0"
 	"The Detonator"							"0"
 	"The Dragon's Fury"						"0"
@@ -259,7 +259,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 76) ----------------------\\
+	//--------------------- Taunts (Total: 82) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -267,17 +267,17 @@
 	"RPS Taunt"							"0"
 	"Skullcracker Taunt"						"0"
 	"Square Dance Taunt"						"0"
-	"Taunt: Cheers!"						"0"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
-	"Taunt: Mourning Mercs"						"0"
 	"Taunt: The Fist Bump"						"0"
+	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
 	"Battin' a Thousand Taunt"					"0"
 	"Deep Fried Desire Taunt"					"0"
 	"Taunt: Foul Play"						"0"
+	"Taunt: Peace Out"						"0"
 	"Taunt: Runner's Rhythm"					"0"
 	"Taunt: Spin-to-Win"						"0"
 	"Taunt: The Boston Boarder"					"0"
@@ -295,6 +295,7 @@
 	//____________________________ Pyro _____________________________\\
 	"Party Trick Taunt"						"0"
 	"Pool Party Taunt"						"0"
+	"Taunt: Cremator's Condolences"					"0"
 	"Taunt: Roasty Toasty"						"0"
 	"Taunt: Scorcher's Solo"					"0"
 	"Taunt: The Balloonibouncer"					"0"
@@ -305,6 +306,7 @@
 	"Oblooterated Taunt"						"0"
 	"Spent Well Spirits Taunt"					"0"
 	"Taunt: Drunk Mann's Cannon"					"0"
+	"Taunt: Fore-Head Slice"					"0"
 	"Taunt: Roar O'War"						"0"
 	"Taunt: Scotsmann's Stagger"					"0"
 	"Taunt: Shanty Shipmate"					"0"
@@ -313,6 +315,7 @@
 	"Taunt: True Scotsman's Call"					"0"
 	//____________________________ Heavy ____________________________\\
 	"Taunt: Bare Knuckle Beatdown"					"0"
+	"Taunt: Crushing Defeat"					"0"
 	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Proletariat Showoff"				"0"
@@ -336,14 +339,17 @@
 	"Taunt: Didgeridrongo"						"0"
 	"Taunt: Most Wanted"						"0"
 	"Taunt: Shooter's Stakeout"					"0"
+	"Taunt: Straight Shooter Tutor"					"0"
 	"Taunt: The Killer Solo"					"0"
 	//_____________________________ Spy _____________________________\\
 	"Buy A Life Taunt"						"0"
+	"Taunt: Curtain Call"						"0"
 	"Taunt: Disco Fever"						"0"
 	"Taunt: Luxury Lounge"						"0"
 	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"
 	"Taunt: The Crypt Creeper"					"0"
+	"Taunt: The Punchline"						"0"
 	"Taunt: The Travel Agent"					"0"
 	"Taunt: Tuefort Tango"						"0"
 }

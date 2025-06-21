@@ -1,5 +1,5 @@
-// Whitelist generated at Thu, 25 Apr 2024 18:05:32 +0200
-// Whitelist: RGL.gg Highlander (Season 14) (ID: 14011)
+// Whitelist generated at Sat, 21 Jun 2025 17:53:20 +0200
+// Whitelist: RGL.gg Highlander (Season 21) (ID: 18150)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/rgl_9v9
@@ -21,13 +21,13 @@
 //  * Crit-a-Cola
 //  * Mad Milk
 
-// Blocked weapons for Soldier
-// - Primary
-//  * Air Strike
-
 // Blocked weapons for Pyro
 // - Secondary
 //  * Scorch Shot
+
+// Blocked weapons for Demoman
+// - Primary
+//  * Loch-n-Load
 
 // Blocked weapons for Engineer
 // - Secondary
@@ -53,10 +53,10 @@
 	"Crit-a-Cola"							"0"
 	"Mad Milk"							"0"
 	"Mutated Milk"							"0"
-	//___________________________ Soldier ___________________________\\
-	"The Air Strike"						"0"
 	//____________________________ Pyro _____________________________\\
 	"The Scorch Shot"						"0"
+	//___________________________ Demoman ___________________________\\
+	"The Loch-n-Load"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
 	//__________________________ Engineer ___________________________\\
@@ -121,7 +121,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 61) ----------------------\\
+	//--------------------- Taunts (Total: 56) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -129,16 +129,13 @@
 	"RPS Taunt"							"0"
 	"Skullcracker Taunt"						"0"
 	"Square Dance Taunt"						"0"
-	"Taunt: Cheers!"						"0"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
-	"Taunt: Mourning Mercs"						"0"
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
-	"Taunt: Foul Play"						"0"
 	"Taunt: Runner's Rhythm"					"0"
 	"Taunt: Spin-to-Win"						"0"
 	"Taunt: The Boston Boarder"					"0"
@@ -159,7 +156,6 @@
 	"Taunt: The Skating Scorcher"					"0"
 	//___________________________ Demoman ___________________________\\
 	"Taunt: Drunk Mann's Cannon"					"0"
-	"Taunt: Roar O'War"						"0"
 	"Taunt: Scotsmann's Stagger"					"0"
 	"Taunt: Shanty Shipmate"					"0"
 	"Taunt: The Drunken Sailor"					"0"
@@ -179,7 +175,6 @@
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
-	"Taunt: Borrowed Bones"						"0"
 	"Taunt: Surgeon's Squeezebox"					"0"
 	"Taunt: The Mannbulance!"					"0"
 	"Taunt: Time Out Therapy"					"0"
