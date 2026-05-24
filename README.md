@@ -39,9 +39,6 @@ Parts of this README are still in the process of being updated.
 - [SrcTV+](https://github.com/dalegaard/srctvplus)
   - SrcTV+ makes the server send all events to SrcTV.
   - By GipsArm - [TFTV Thread](https://www.teamfortress.tv/46380/srctv)
-- [TF2 Halftime](https://github.com/sapphonie/tf2-halftime)
-  - Emulates ESEA style halftimes for 5CP (halftime at 3 points or timelimit) and King of the Hill (halftime at 2 points) modes.
-  - By sapphonie
 - [RGL.gg QoL Tweaks](https://github.com/RGLgg/server-resources-updater/blob/master/addons/sourcemod/scripting/rglqol.sp)
   - Adds QoL tweaks for easier competitive server management and competitive integrity
   - By sapphonie and Aad
@@ -106,7 +103,7 @@ You will have to add new maps to your server manually as RGL introduces them to 
 
 # !!Please read this section if you're not going to read anything else!!
 
-There are different configs and plugins for scrims and matches if you're playing 5cp and koth in 6s. Halftimes in 5cp and koth are handled by the tf2Halftime plugin, mirrored from [here](https://github.com/stephanieLGBT/tf2-halftime).
+There are different configs and plugins for scrims and matches if you're playing 5cp and koth in 6s.
 
 Every other gamemode and type has the same config for scrims and matches.
 
@@ -131,28 +128,8 @@ Here are the configs you need to exec for specific modes and map types:
 </tr>
 <tr>
 <td align="left">5cp Match</td>
-<td align="left">rgl_6s_5cp_match</td>
-<td align="left">First half: winlimit 3, timelimit 30, 2nd half: first to 5 or timelimit</td>
-</tr>
-<tr>
-<td align="left">5cp Match 1st Half</td>
-<td align="left">rgl_6s_5cp_match_half1</td>
-<td align="left">winlimit 3, timelimit 30 (this and half2 can be used if plugin isn't available)</td>
-</tr>
-<tr>
-<td align="left">5cp Match 2nd Half</td>
-<td align="left">rgl_6s_5cp_match_half2</td>
-<td align="left">winlimit 5, timelimit 30, reexec after one team has won 5 total rounds</td>
-</tr>
-<tr>
-<td align="left">5cp Match Golden Cap</td>
-<td align="left">rgl_6s_5cp_gc</td>
-<td align="left">winlimit 1, no timelimit</td>
-</tr>
-<tr>
-<td align="left">KoTH Match</td>
-<td align="left">rgl_6s_koth</td>
-<td align="left">winlimit 2, no timelimit, 2 halves.</td>
+<td align="left">rgl_6s_5cp_match_pro</td>
+<td align="left">winlimit 5, timelimit 30. first to 5 wins the match, or if the  time limit is hit, the new win limit is changed to 1 + the current leading score. first team to hit the new win limit wins.</td>
 </tr>
 <tr>
 <td align="left">KoTH Scrim</td>
@@ -160,9 +137,14 @@ Here are the configs you need to exec for specific modes and map types:
 <td align="left">winlimit 2, no timelimit, 2 halves. (can be used for matches and reexeced if plugin is not available, reexec after one team has won 4 total rounds)</td>
 </tr>
 <tr>
-<td align="left">Playoffs KoTH</td>
-<td align="left">rgl_6s_koth_bo5</td>
-<td align="left">winlimit 3, no timelimit</td>
+<td align="left">KoTH Match</td>
+<td align="left">rgl_6s_koth_pro</td>
+<td align="left">winlimit 4, no timelimit, 1 half</td>
+</tr>
+<tr>
+<td align="left">Stopwatch</td>
+<td align="left">rgl_6s_stopwatch</td>
+<td align="left">winlimit 2 (best of 3)</td>
 </tr>
 </tbody>
 </table>
@@ -222,41 +204,6 @@ Here are the configs you need to exec for specific modes and map types:
 <tr>
 <td align="left">Playoffs KoTH</td>
 <td align="left">rgl_7s_koth_bo5</td>
-<td align="left">winlimit 3, no timelimit</td>
-</tr>
-</tbody>
-</table>
-<br>
-<table>
-<thead>
-<tr>
-<th align="center" colspan="3">NR 6s</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><b>type of game</b></td>
-<td align="left"><b>config to exec</b></td>
-<td align="left"><b>notes</b></td>
-</tr>
-<tr>
-<td align="left">5cp</td>
-<td align="left">rgl_mm_5cp</td>
-<td align="left">winlimit 4, no timelimit</td>
-</tr>
-<tr>
-<td align="left">Stopwatch</td>
-<td align="left">rgl_mm_stopwatch</td>
-<td align="left">winlimit 2 (best of 3)</td>
-</tr>
-<tr>
-<td align="left">Regular Season KoTH</td>
-<td align="left">rgl_mm_koth</td>
-<td align="left">winlimit 2, no timelimit, 2 halves. reexec after one team has won 4 total rounds</td>
-</tr>
-<tr>
-<td align="left">Playoffs KoTH</td>
-<td align="left">rgl_mm_koth_bo5</td>
 <td align="left">winlimit 3, no timelimit</td>
 </tr>
 </tbody>

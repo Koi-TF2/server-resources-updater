@@ -1,4 +1,4 @@
-// Whitelist generated at Sat, 21 Jun 2025 17:53:32 +0200
+// Whitelist generated at Mon, 25 May 2026 00:39:49 +0200
 // Custom Whitelist ID: 14183
 
 // Share or view this whitelist:
@@ -131,7 +131,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 76) ----------------------\\
+	//--------------------- Taunts (Total: 86) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -141,18 +141,23 @@
 	"Square Dance Taunt"						"0"
 	"Taunt: Cheers!"						"0"
 	"Taunt: Commending Clap"					"0"
+	"Taunt: Flying Colors"						"0"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Killer Joke"						"0"
 	"Taunt: Mannrobics"						"0"
 	"Taunt: Mourning Mercs"						"0"
 	"Taunt: Peace!"							"0"
+	"Taunt: The Critical Fail"					"0"
+	"Taunt: The Final Score"					"0"
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Unleashed Rage"						"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
+	"Taunt: Chairholder"						"0"
 	"Taunt: Foul Play"						"0"
+	"Taunt: Healthcare Hog"						"0"
 	"Taunt: Peace Out"						"0"
 	"Taunt: Runner's Rhythm"					"0"
 	"Taunt: Spin-to-Win"						"0"
@@ -177,6 +182,7 @@
 	"Taunt: The Hot Wheeler"					"0"
 	"Taunt: The Skating Scorcher"					"0"
 	//___________________________ Demoman ___________________________\\
+	"Taunt: Dead Mann's Drink"					"0"
 	"Taunt: Drunk Mann's Cannon"					"0"
 	"Taunt: Fore-Head Slice"					"0"
 	"Taunt: Roar O'War"						"0"
@@ -186,7 +192,9 @@
 	"Taunt: The Pooped Deck"					"0"
 	//____________________________ Heavy ____________________________\\
 	"Taunt: Bare Knuckle Beatdown"					"0"
+	"Taunt: Bear Hug"						"0"
 	"Taunt: Crushing Defeat"					"0"
+	"Taunt: Ring King"						"0"
 	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Road Rager"						"0"
@@ -196,11 +204,13 @@
 	//__________________________ Engineer ___________________________\\
 	"Rancho Relaxo Taunt"						"0"
 	"Taunt: Bucking Bronco"						"0"
+	"Taunt: Texan Trickshot"					"0"
 	"Taunt: Texas Truckin"						"0"
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
 	"Taunt: Borrowed Bones"						"0"
+	"Taunt: Heartbreaker"						"0"
 	"Taunt: Surgeon's Squeezebox"					"0"
 	"Taunt: The Head Doctor"					"0"
 	"Taunt: The Mannbulance!"					"0"
